@@ -46,4 +46,3 @@ Proyek ini dibuat untuk keperluan edukasi dan tidak untuk penggunaan komersial.
 
 ---
 **© 2025 Haeqal Salehudin**
-
