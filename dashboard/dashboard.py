@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-full_df = pd.read_csv("all_data.csv")
+full_df = pd.read_csv("dashboard/all_data.csv")
 full_df['order_purchase_timestamp'] = pd.to_datetime(full_df['order_purchase_timestamp'])
 
 # Inisialisasi session state untuk navigasi halaman
