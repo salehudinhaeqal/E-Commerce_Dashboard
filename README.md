@@ -40,6 +40,7 @@ submission
 ├───README.md
 └───requirements.txt
 └───url.txt
+```
 
 ## 📝 Lisensi
 Proyek ini dibuat untuk keperluan edukasi dan tidak untuk penggunaan komersial.
